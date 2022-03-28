@@ -1,1 +1,1 @@
-# Gr-ficos
+# Gráficos
